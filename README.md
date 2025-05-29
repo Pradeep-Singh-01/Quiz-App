@@ -26,13 +26,7 @@ Flutter SDK
 
 An API key from API Ninjas
 
-Installation
-
-Clone the repository:
-
-git clone https://github.com/yourusername/trivia_quiz_app.git
-cd trivia_quiz_app
-
+Installation:
 Install dependencies:
 
 flutter pub get
